@@ -39,3 +39,63 @@ python main.py
 - Python 3.10 이상
 - VSCode
 - Git / GitHub
+
+<img width="510" height="155" alt="image" src="https://github.com/user-attachments/assets/222762a1-2b79-483f-a23a-15e271ab37b1" />
+
+최종 체크리스트
+항목	상태
+콘솔 프로그램 (8개 메뉴 모두 동작)	✅
+기본 프롬프트 3개 이상	✅
+GitHub 저장소 업로드	✅
+커밋 10개 이상	✅ (18개)
+브랜치 생성 + 병합	✅ (3회)
+README.md (설명+실행방법+설계문서)	✅
+함수별 코드 분리	✅
+git clone 로그	✅ 
+
+ python --version, git --version 결과
+<img width="473" height="65" alt="image" src="https://github.com/user-attachments/assets/41261f12-940f-49be-9351-435b20d0ee2c" />
+
+ 
+ git config --list
+
+ <img width="455" height="305" alt="image" src="https://github.com/user-attachments/assets/50ff43f5-9c35-4311-8d07-1a8ac3cfa1d7" />
+
+ 
+ git clone 실행 로그 
+ <img width="510" height="155" alt="image" src="https://github.com/user-attachments/assets/222762a1-2b79-483f-a23a-15e271ab37b1" />
+
+ 
+ 메뉴 화면
+<img width="448" height="246" alt="image" src="https://github.com/user-attachments/assets/b5353daa-cab4-4ed3-9e93-2d7e2d8d5755" />
+
+ 
+ 프롬프트 추가 과정
+<img width="431" height="226" alt="image" src="https://github.com/user-attachments/assets/f4ba532c-f811-43a0-ace0-dd4b1b88f2e8" />
+
+ 
+ 목록 보기
+<img width="503" height="237" alt="image" src="https://github.com/user-attachments/assets/a817ed2a-134f-4f30-9a5b-18822898a352" />
+
+ 
+ 카테고리별 조회
+ 
+ <img width="438" height="92" alt="image" src="https://github.com/user-attachments/assets/89a1e1dd-1622-4b46-a864-ce73208d60f6" />
+
+ 검색 결과
+ 
+<img width="499" height="137" alt="image" src="https://github.com/user-attachments/assets/17edb515-0e57-4f4f-80ec-369ede3bba9b" />
+
+ 
+ 
+ 상세 보기
+
+ <img width="448" height="173" alt="image" src="https://github.com/user-attachments/assets/e36a674e-6b32-40c2-b837-3f5101e9f629" />
+
+ 즐겨찾기 관리/목록
+<img width="450" height="90" alt="image" src="https://github.com/user-attachments/assets/99d2ed0f-a432-49df-8854-1b1f8bd2862e" />
+
+ 
+ git log --oneline --graph
+ <img width="498" height="274" alt="image" src="https://github.com/user-attachments/assets/ca153aa5-4d28-4461-8ea2-1b6a48623ab7" />
+
